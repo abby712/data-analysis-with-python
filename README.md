@@ -1,4 +1,5 @@
-**Airline Customer Behaviour Analysis**
+**Airline Customer Behaviour Analysis**[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://https://github.com/abby712/data-analysis-with-python/blob/main/notebooks/Customer_Behaviour_Analysis.ipynb)
+
 A Data Analytics Project using Python
 
 **Project Overview**
