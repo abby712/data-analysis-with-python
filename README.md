@@ -1,2 +1,51 @@
-# data-analysis-with-python
-A data analysis project that evaluates the performance of marketing campaigns using Python. Includes data cleaning, exploratory analysis, customer segmentation, and insight generation to improve targeting, conversions, and overall campaign effectiveness.
+**Airline Customer Behaviour Analysis**
+A Data Analytics Project using Python
+
+**Project Overview**
+This project explores airline customer behavior using real-world passenger data to uncover trends in travel frequency, satisfaction levels, spending patterns, and loyalty behavior.Through data cleaning, exploratory data analysis (EDA), and visualizations, the project provides insights that help airlines improve customer experience, engagement, and retention strategies.
+
+**Objectives**
+* Understand customer demographics and travel patterns
+* Identify factors influencing customer satisfaction
+* Analyze loyalty program engagement
+* Segment customers based on behavioral characteristics
+* Generate actionable insights for data-driven decisions
+
+**Tech Stack**
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+**Project Workflow**
+**1. Data Cleaning**
+
+* Handling missing values
+* Removing duplicates
+* Standardizing column names
+* Converting data types
+
+**2. Exploratory Data Analysis (EDA)**
+
+* Travel frequency patterns
+* Customer demographics
+* Spending vs satisfaction
+* Loyalty tier analysis
+* Popular destinations
+* Correlation analysis
+
+**3. Visualizations**
+
+* Histograms
+* Bar charts
+* Box plots
+* Heatmaps
+* Trend charts
+
+**Key Insights**
+
+Identified customer groups with high travel frequency
+Found strong relationships between satisfaction and loyalty program usage
+Detected behavior patterns that influence spending
+Highlighted factors contributing to customer churn and retention
