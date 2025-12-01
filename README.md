@@ -45,7 +45,7 @@ This project explores airline customer behavior using real-world passenger data 
 
 **Key Insights**
 
-Identified customer groups with high travel frequency
-Found strong relationships between satisfaction and loyalty program usage
-Detected behavior patterns that influence spending
-Highlighted factors contributing to customer churn and retention
+* Identified customer groups with high travel frequency
+* Found strong relationships between satisfaction and loyalty program usage
+* Detected behavior patterns that influence spending
+* Highlighted factors contributing to customer churn and retention
